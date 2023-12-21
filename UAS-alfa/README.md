@@ -1,7 +1,7 @@
 # Tugas UAS SPK
 
 Nama : Alfa Saputra <br>
-NIM : 201011400588 <br>
+NIM : 201011401522 <br>
 Kelas : 07-TPLP-012 <br>
 
 ## Install requirements
